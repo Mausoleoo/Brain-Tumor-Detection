@@ -17,6 +17,5 @@
 
 **Packages**: Pandas, NumPy, Seaborn, Scikit-learn, Tensorflow
 
-Tutorial Twitter scraper: https://www.youtube.com/watch?v=jtIMnmbnOFo&ab_channel=AISpectrum
 
 Dataset: https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection
